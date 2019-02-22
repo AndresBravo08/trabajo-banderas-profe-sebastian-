@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
 *
 {
     margin: 0;
     padding: 0;
 }
 nav{
-    background-color:#178BCE;
+    background-color:yellow;
     text-align: center;
 }
 nav ul li{
@@ -17,11 +17,11 @@ nav ul li a{
         padding: 11px 35px;
         text-decoration: none;
         color: unset;
-        font-family: 'Dancing Script', cursive;
+        font-family: 'Satisfy', cursive;
         font-size: 31px;      
 }
 .active{
-    background-color: #22E7EE;
+    background-color: red
 }
 h1{
    background-color: skyblue;
@@ -144,7 +144,7 @@ h1{
         border: solid;
         border-color: black;
         margin:auto;
-                background-color:white ;
+         background-color:white ;
         padding:5px;
         padding-top: 1px;
         
